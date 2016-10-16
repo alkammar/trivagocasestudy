@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Trakt Case Study By Mahmoud</string>
+    <string name="menu_search">Search</string>
+    <string name="searchable">Search Movies</string>
+</resources>
